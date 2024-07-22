@@ -1,1 +1,1 @@
-oliver006/redis_exporter:latest
+prom/node-exporter:latest
