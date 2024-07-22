@@ -1,1 +1,1 @@
-prom/node-exporter:latest
+prom/mysqld-exporter:latest
