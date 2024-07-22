@@ -1,1 +1,1 @@
-bitnami/kafka
+oliver006/redis_exporter:latest
