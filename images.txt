@@ -1,1 +1,1 @@
-prom/cadvisor
+cadvisor
