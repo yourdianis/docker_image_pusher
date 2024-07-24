@@ -1,1 +1,1 @@
-gcr.io/google-containers/cadvisor:v0.47.0
+gcr.io/cadvisor/cadvisor:latest
