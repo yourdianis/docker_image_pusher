@@ -1,1 +1,1 @@
-prom/node-exporter
+prom/cadvisor
