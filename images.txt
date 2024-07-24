@@ -1,1 +1,1 @@
-nvidia_gpu_exporter
+gcr.io/cadvisor/cadviso
