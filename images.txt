@@ -1,1 +1,1 @@
-quay.io/prometheuscommunity/elasticsearch-exporter:latest
+justwatchcom/elasticsearch_exporter:latest
