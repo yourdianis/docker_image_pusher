@@ -1,1 +1,1 @@
-justwatchcom/elasticsearch_exporter:latest
+grafana/grafana:7.1.1
