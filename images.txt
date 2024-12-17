@@ -1,1 +1,1 @@
-rockylinux:9
+mysql:8.0.21
