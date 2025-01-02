@@ -1,1 +1,1 @@
-zstackio/zstack:latest
+golang:1.21
