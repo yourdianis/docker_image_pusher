@@ -1,1 +1,1 @@
-maxiaolin3366/sqladvisor:latest
+rabbitmq:3-management
