@@ -1,1 +1,1 @@
-rabbitmq:3-management
+hashicorp/consul
