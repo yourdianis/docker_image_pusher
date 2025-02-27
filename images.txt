@@ -1,1 +1,1 @@
-gravitl/teleport
+chainguard/teleport
