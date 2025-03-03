@@ -1,1 +1,1 @@
-cgr.dev/chainguard/teleport:latest
+alpine:3.12.3
