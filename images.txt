@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:5.3.1
