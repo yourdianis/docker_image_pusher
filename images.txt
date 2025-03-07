@@ -1,1 +1,1 @@
-quay.io/kata-containers/kata-deploy:latest
+quay.io/prometheus/prometheus
