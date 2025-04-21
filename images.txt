@@ -1,1 +1,1 @@
-busybox
+eipwork/kuboard-agent:v3
